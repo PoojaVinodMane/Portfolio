@@ -30,7 +30,7 @@ This is a single-file project; all HTML, CSS, and JS are contained within `index
 
 ### ⚙️ Setup and Usage
 
-1.  **Download Files:** Obtain the `index.html` file and ensure the required image file, `WhatsApp Image 2025-11-15 at 1.28.12 AM.jpeg`, is saved in the **same directory**.
+1.  **Download Files:** Obtain the `index.html` file and ensure the required image file, `PIC.jpeg`, is saved in the **same directory**.
 2.  **Run Locally:** Open `index.html` directly in your web browser (e.g., Chrome, Firefox).
 
 ### 🖼️ Image Note
